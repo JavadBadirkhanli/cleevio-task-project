@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CleevioTaskProject</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="toolbar_title_main_activity">FileManager</string>
+    <string name="toolbar_title_settings_activity">Settings</string>
+    <string name="toolbar_cab_title">Delete %1$s</string>
+
+    <string name="parent_directory_name">parent</string>
+</resources>
